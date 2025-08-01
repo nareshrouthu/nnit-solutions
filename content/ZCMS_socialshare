@@ -1,0 +1,41 @@
+<div class="zpelement zpelem-socialshare">
+  <div class="zpsocial-share-container">
+  
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-linkedin" data-social-media="linkedin">
+        <div class="zpsocial-share-icon-linkedin" tabindex="0" role="link" aria-label="LinkedIn">
+          
+  
+  <svg aria-hidden="true" class="zpsocial-icon-20px " viewBox="0 0 50 50" xmlns:xlink="http://www.w3.org/1999/xlink" data-social-icon="linkedin">
+    <path d="M6.02 0c3.32 0 6.02 2.7 6.02 6.02 0 3.32-2.7 6.02-6.02 6.02C2.7 12.04 0 9.34 0 6.02 0 2.7 2.7 0 6.02 0zm31.62 15.97C48.1 15.97 50 22.77 50 31.73V50H39.72V33.8c0-3.85-.07-8.75-5.37-8.75-5.37 0-6.23 4.2-6.23 8.54V50h-10.3V16.74h9.86v4.6h.22c1.38-2.62 4.7-5.37 9.74-5.37zm-36.66.77h10.4V50H.98V16.74z" fill-rule="nonzero"/>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">LinkedIn</span>
+        </div>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-whatsapp" data-social-media="whatsapp">
+        <div class="zpsocial-share-icon-whatsapp" tabindex="0" role="link" aria-label="WhatsApp">
+          
+  
+  <svg aria-hidden="true" class="zpsocial-icon-20px " viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M20 0c11.03 0 20 8.97 20 20A20.02 20.02 0 0 1 9 36.7l-7.68 2.45 2.49-7.43C1.4 28.43 0 24.37 0 20 0 8.97 8.97 0 20 0zm9.64 27.32c.41-1.24.41-2.3.29-2.52-.16-.3-4-2.22-4.3-2.33-.45-.18-.88-.12-1.22.4-.47.7-.94 1.43-1.32 1.87-.3.34-.78.38-1.19.2-.55-.24-2.07-.82-3.96-2.62a15.98 15.98 0 0 1-2.74-3.66c-.29-.53-.03-.84.2-1.13.71-.95 1.7-1.6 1.21-2.69-.12-.26-1.11-2.87-1.52-3.92-.35-.9-.58-.92-1.64-.92-2.2 0-3.45 2.73-3.45 5.07 0 4.6 6.05 11.5 10.41 13.44 3.88 1.73 5.03 1.57 5.92 1.37 1.29-.3 2.9-1.32 3.31-2.56z" fill-rule="evenodd"/></svg>
+  
+
+
+          <span class="zpsocial-network-name">WhatsApp</span>
+        </div>
+      </div>
+    
+   
+  </div>
+</div>
+
+
